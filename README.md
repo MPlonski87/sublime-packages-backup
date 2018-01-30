@@ -1,4 +1,4 @@
-# sublime-packages-backup
+# Sublime-packages-backup
 
 Just a sublime text 3 packages backup :-)
 
