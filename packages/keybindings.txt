@@ -1,0 +1,15 @@
+[
+	{ "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["ctrl+i"], "command": "reindent"},
+    { "keys": ["ctrl+k"], "command": "toggle_side_bar" },
+
+    {
+        "keys": ["ctrl+shift+r"], "command": "browser_refresh", "args": {
+            "auto_save": true,
+            "delay": 0.0,
+            "activate": true,
+            "browsers" : ["chrome"]
+        }
+    }
+]
